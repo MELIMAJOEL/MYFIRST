@@ -6,6 +6,5 @@ int main() {
      int y = 12;
      int sum = x * y;
      printf("%d",sum);
-
      return 0;
 }
